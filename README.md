@@ -7,4 +7,4 @@ Database:Firebase
 
 # Features
 visualization user interface
-![空氣品質中等]([https://github.com/user-attachments/assets/0ef08641-0bbb-4708-9b94-9eb20669a8c9](https://github.com/user-attachments/assets/0ef08641-0bbb-4708-9b94-9eb20669a8c9))
+<img src="https://github.com/user-attachments/assets/2febe6b4-74e1-4aa9-b1a7-7cb9617b951c" alt="空氣品質" style="width:300px;">
